@@ -1,2 +1,6 @@
-alo alo
-<img src="cdn/Sem Título.png" alt="Sem%20Título.png" width=1129 height=628>
+<!doctype html>
+<html>
+<body>
+<img src=”Sem Título.png” alt=”some text” width=300 height=200>
+</body>
+</html>
